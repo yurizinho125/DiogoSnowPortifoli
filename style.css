@@ -38,7 +38,7 @@ header {
     
 }
 main {
-    background-color:#0000001c;
+    background-color:rgba(0, 0, 0, 0.4);
     
         
 }
@@ -1250,4 +1250,5 @@ h1{
 
   footer .icon-content .filled{
     margin: auto;
+
   }
